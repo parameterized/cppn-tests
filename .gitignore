@@ -1,0 +1,8 @@
+# ipynb checkpoints
+.ipynb_checkpoints
+# pycache
+__pycache__
+# models
+notebooks/models/
+# outputs
+notebooks/outputs/
